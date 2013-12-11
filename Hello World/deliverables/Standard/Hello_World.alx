@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="Hello_World">
+		<name >
+			Hello World
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			onmobile Global Ltd.
+		</vendor>
+		<copyright >
+			Copyright (c) 2013 onmobile Global Ltd.
+		</copyright>
+		<fileset Java="1.54" _blackberryVersion="[5.0.0)">
+			<directory >
+				5.0.0
+			</directory>
+			<files >
+				Hello_World.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: Hello_World
+RIM-COD-Module-Dependencies: net_rim_cldc
+MIDlet-Jar-Size: 15409
+MIDlet-1: Hello World,img/icon.png,
+RIM-COD-Creation-Time: 1386748713
+MIDlet-Jar-URL: Hello World.jar
+RIM-COD-URL: Hello_World.cod
+RIM-COD-SHA1: c0 5f 7d d7 ac 37 3b 52 73 95 5c 16 ec 2e f1 6c ee 2b 0e 76
+RIM-COD-Size: 8480
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: Hello World
+MIDlet-Vendor: onmobile Global Ltd.
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0
