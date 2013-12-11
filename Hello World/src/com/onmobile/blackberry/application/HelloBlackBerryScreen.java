@@ -16,7 +16,7 @@ public class HelloBlackBerryScreen extends MainScreen {
 		super(MainScreen.VERTICAL_SCROLL | MainScreen.VERTICAL_SCROLLBAR);
 		setTitle("HelloBlackBerry");
 
-		basicEditField = new BasicEditField("Enter Name:", "", 100,
+		basicEditField = new BasicEditField("Enter Your First Name:", "", 100,
 				BasicEditField.EDITABLE);
 		add(basicEditField);
 
