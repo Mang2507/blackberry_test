@@ -16,11 +16,11 @@ public class HelloBlackBerryScreen extends MainScreen {
 		super(MainScreen.VERTICAL_SCROLL | MainScreen.VERTICAL_SCROLLBAR);
 		setTitle("HelloBlackBerry");
 
-		basicEditField = new BasicEditField("Enter Name:", "", 100,
+		basicEditField = new BasicEditField("Enter Your Last Name:", "", 100,
 				BasicEditField.EDITABLE);
 		add(basicEditField);
 
-		ButtonField buttonField_1 = new ButtonField("Say Hello to",
+		ButtonField buttonField_1 = new ButtonField("Say Hello to GIT",
 				ButtonField.CONSUME_CLICK | ButtonField.FIELD_RIGHT);
 		add(buttonField_1);
 		buttonField_1.setChangeListener(new FieldChangeListener() {
